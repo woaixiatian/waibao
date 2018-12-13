@@ -1,0 +1,8 @@
+syntax = "proto3";
+import "Result.proto";
+message DemoParam{
+    int32 code = 1;
+    string msg = 2;
+    repeated string list = 3; // List列表
+    repeated Result list2 = 4; // List列表
+}

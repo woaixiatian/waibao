@@ -1,0 +1,6 @@
+syntax = "proto3";
+message Result{
+    int32 code = 1;
+    string msg = 2;
+    map<string, string> projects = 3;
+}

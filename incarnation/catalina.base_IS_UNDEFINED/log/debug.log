@@ -1,0 +1,980 @@
+2018-04-18 14:58:15.536 [main] DEBUG com.bilibili.Service.GirlServiceTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-18 14:58:20.129 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-18 14:58:20.133 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-18 14:58:20.217 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-18 14:58:20.237 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-18 14:58:20.269 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-18 14:58:20.289 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-18 14:58:20.290 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-18 14:58:20.302 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-18 14:58:21.783 [main] DEBUG com.bilibili.Service.GirlServiceTest - debug...............................
+2018-04-18 14:59:22.304 [main] DEBUG com.bilibili.Service.GirlServiceTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-18 14:59:25.105 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-18 14:59:25.108 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-18 14:59:25.188 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-18 14:59:25.211 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-18 14:59:25.227 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-18 14:59:25.244 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-18 14:59:25.244 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-18 14:59:25.260 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-18 14:59:26.459 [main] DEBUG com.bilibili.Service.GirlServiceTest - debug...............................
+2018-04-20 14:20:54.185 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:20:57.422 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 14:20:57.424 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 14:20:57.460 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 14:20:57.475 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 14:20:57.505 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 14:20:57.515 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 14:20:57.515 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 14:20:57.524 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 14:45:45.595 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:48:21.642 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:48:24.612 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 14:48:24.614 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 14:48:24.642 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 14:48:24.654 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 14:48:24.666 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 14:48:24.672 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 14:48:24.672 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 14:48:24.680 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 14:50:23.918 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:50:26.632 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 14:50:26.634 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 14:50:26.663 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 14:50:26.677 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 14:50:26.688 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 14:50:26.693 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 14:50:26.693 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 14:50:26.702 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 14:52:52.739 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:52:56.391 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 14:52:56.392 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 14:52:56.428 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 14:52:56.443 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 14:52:56.464 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 14:52:56.475 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 14:52:56.475 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 14:52:56.489 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 14:54:35.179 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:54:38.417 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 14:54:38.420 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 14:54:38.459 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 14:54:38.477 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 14:54:38.492 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 14:54:38.499 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 14:54:38.499 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 14:54:38.514 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 14:55:46.617 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 14:55:49.447 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 14:55:49.448 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 14:55:49.480 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 14:55:49.493 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 14:55:49.505 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 14:55:49.510 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 14:55:49.511 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 14:55:49.520 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 15:50:18.089 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 15:50:21.551 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 15:50:21.553 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 15:50:21.591 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 15:50:21.607 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 15:50:21.626 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 15:50:21.640 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 15:50:21.640 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 15:50:21.650 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 16:39:46.853 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 16:39:50.761 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 16:39:50.764 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 16:39:50.812 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 16:39:50.823 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 16:39:50.837 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 16:39:50.850 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 16:39:50.850 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 16:39:50.862 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 16:41:58.627 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 16:42:01.454 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 16:42:01.456 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 16:42:01.497 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 16:42:01.512 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 16:42:01.523 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 16:42:01.529 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 16:42:01.530 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 16:42:01.544 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 16:43:14.656 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 16:43:17.429 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 16:43:17.430 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 16:43:17.462 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 16:43:17.476 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 16:43:17.485 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 16:43:17.491 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 16:43:17.491 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 16:43:17.501 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 16:43:35.002 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 16:43:37.859 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 16:43:37.860 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 16:43:37.889 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 16:43:37.901 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 16:43:37.909 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 16:43:37.914 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 16:43:37.915 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 16:43:37.923 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 16:44:59.157 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 16:45:02.343 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 16:45:02.345 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 16:45:02.374 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 16:45:02.386 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 16:45:02.398 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 16:45:02.404 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 16:45:02.405 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 16:45:02.414 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 17:02:33.971 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 17:02:37.892 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 17:02:37.894 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 17:02:37.938 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 17:02:37.953 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 17:02:37.965 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 17:02:37.974 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 17:02:37.974 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 17:02:37.987 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 17:24:28.418 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 17:24:32.263 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 17:24:32.265 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 17:24:32.302 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 17:24:32.317 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 17:24:32.328 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 17:24:32.338 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 17:24:32.338 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 17:24:32.353 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 17:27:26.001 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 17:27:28.815 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 17:27:28.817 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 17:27:28.846 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 17:27:28.858 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 17:27:28.869 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 17:27:28.875 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 17:27:28.875 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 17:27:28.885 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 17:28:59.975 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 17:29:03.291 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 17:29:03.293 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 17:29:03.332 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 17:29:03.345 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 17:29:03.354 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 17:29:03.362 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 17:29:03.362 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 17:29:03.376 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 17:52:37.584 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 17:52:40.714 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 17:52:40.715 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 17:52:40.745 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 17:52:40.757 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 17:52:40.767 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 17:52:40.772 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 17:52:40.772 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 17:52:40.782 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-20 17:55:17.322 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-20 17:55:20.848 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-20 17:55:20.850 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-20 17:55:20.892 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-20 17:55:20.912 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-20 17:55:20.927 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-20 17:55:20.939 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-20 17:55:20.939 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-20 17:55:20.957 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-24 15:50:52.848 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-24 15:50:57.526 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-24 15:50:57.528 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-24 15:50:57.564 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-24 15:50:57.576 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-24 15:50:57.599 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-24 15:50:57.611 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-24 15:50:57.612 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-24 15:50:57.623 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-24 16:15:35.473 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-24 16:15:38.716 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-24 16:15:38.717 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-24 16:15:38.745 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-24 16:15:38.757 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-24 16:15:38.768 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-24 16:15:38.774 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-24 16:15:38.775 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-24 16:15:38.784 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-25 11:08:06.331 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-25 11:08:09.688 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-25 11:08:09.689 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-25 11:08:09.725 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-25 11:08:09.737 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-25 11:08:09.782 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-25 11:08:09.795 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-25 11:08:09.795 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-25 11:08:09.803 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-25 11:15:03.427 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-25 11:15:10.602 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-25 11:15:46.094 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-25 11:15:48.933 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-25 11:15:48.935 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-25 11:15:48.969 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-25 11:15:48.982 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-25 11:15:48.996 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-25 11:15:49.003 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-25 11:15:49.003 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-25 11:15:49.015 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-25 11:16:20.224 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-25 11:16:23.475 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-25 11:16:23.477 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-25 11:16:23.515 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-25 11:16:23.530 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-25 11:16:23.541 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-25 11:16:23.549 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-25 11:16:23.549 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-25 11:16:23.563 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-25 11:24:56.578 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-25 11:24:59.753 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-25 11:24:59.755 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-25 11:24:59.790 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-25 11:24:59.802 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-25 11:24:59.812 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-25 11:24:59.819 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-25 11:24:59.819 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-25 11:24:59.829 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-04-27 16:06:43.933 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-04-27 16:06:47.599 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-04-27 16:06:47.601 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-04-27 16:06:47.638 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-04-27 16:06:47.650 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-04-27 16:06:47.679 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-04-27 16:06:47.692 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-04-27 16:06:47.692 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-04-27 16:06:47.709 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-05-30 10:48:51.106 [main] DEBUG com.bilibili.IncarnationApplication - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-05-30 10:48:53.891 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-05-30 10:48:53.892 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-05-30 10:48:53.928 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-05-30 10:48:53.942 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-05-30 10:48:53.954 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-05-30 10:48:53.963 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-05-30 10:48:53.963 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-05-30 10:48:53.972 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[NewGirl]类所对应的数据库表[new_girl]，查询条件为[id]
+2018-05-30 11:08:45.467 [main] DEBUG com.bilibili.DemoApplicationTests - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-05-30 11:08:48.641 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ������Ϣ��ʼ------------------
+2018-05-30 11:08:48.645 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ[mst_girl]��------------------
+2018-05-30 11:08:48.719 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-05-30 11:08:48.739 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-05-30 11:08:48.749 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-05-30 11:08:48.766 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------����ȡ"1"�������ļ�------------------
+2018-05-30 11:08:48.767 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ������Ϣ����------------------
+2018-05-30 11:08:48.779 [main] DEBUG com.bilibili.bean.user.ObjectBean - ӳ�䵽[NewGirl]������Ӧ�����ݿ��[new_girl]����ѯ����Ϊ[id]
+2018-05-30 11:08:50.964 [main] DEBUG com.bilibili.Service.GirlServiceTest - debug...............................
+2018-06-13 12:27:09.966 [main] DEBUG com.bilibili.Service.GirlServiceTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-06-13 12:27:13.377 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-06-13 12:27:13.378 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"0"个配置文件------------------
+2018-06-13 12:27:13.378 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-09-07 10:34:55.450 [main] DEBUG com.bilibili.DemoApplicationTests - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-09-07 10:35:02.227 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-09-07 10:35:02.661 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-09-07 10:35:02.676 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-09-07 10:35:02.767 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-09-07 10:35:02.789 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-09-07 10:35:02.809 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-09-07 10:35:02.836 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-09-07 10:35:02.836 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-09-07 10:37:52.880 [main] DEBUG com.bilibili.DemoApplicationTests - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-09-07 10:37:56.946 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-09-07 10:37:57.330 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-09-07 10:37:57.331 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-09-07 10:37:57.413 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-09-07 10:37:57.435 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-09-07 10:37:57.462 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-09-07 10:37:57.478 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-09-07 10:37:57.478 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-09-07 10:38:13.195 [main] DEBUG com.bilibili.DemoApplicationTests - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-09-07 10:38:17.313 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-09-07 10:38:17.726 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-09-07 10:38:17.728 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-09-07 10:38:17.850 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-09-07 10:38:17.872 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-09-07 10:38:17.895 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-09-07 10:38:17.908 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-09-07 10:38:17.908 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-10 16:19:57.371 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-10 16:20:04.295 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-10 16:20:04.858 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-10 16:20:04.860 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-10 16:20:05.001 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-10 16:20:05.053 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-10 16:20:05.164 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-10 16:20:05.209 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-10 16:20:05.210 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-10 16:21:00.313 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_player where player_id = 153001000010005 and -1 = '-1' and delete_flag = 0 limit 1 
+2018-10-10 16:21:00.314 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-10 16:21:00.338 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 10:56:46.206 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 10:56:50.377 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[-1]
+2018-10-12 10:56:50.378 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 10:56:50.725 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 10:56:50.727 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 10:56:50.810 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 10:56:50.837 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 10:56:50.871 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 10:56:50.895 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 10:56:50.896 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:45:30.676 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 11:45:35.616 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[-1]
+2018-10-12 11:45:35.617 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 11:45:35.951 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 11:45:35.952 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 11:45:36.052 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 11:45:36.074 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 11:45:36.092 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 11:45:36.114 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 11:45:36.114 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:45:39.574 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_player where player_id = 153001000010005 and -1 = '-1' and delete_flag = 0 limit 1 
+2018-10-12 11:45:39.574 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:45:39.679 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 11:45:55.430 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 11:45:58.865 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[-1]
+2018-10-12 11:45:58.866 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 11:45:59.184 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 11:45:59.186 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 11:45:59.253 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 11:45:59.274 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 11:45:59.286 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 11:45:59.300 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 11:45:59.300 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:46:02.582 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and -1 = '-1' and delete_flag = 0 limit 1 
+2018-10-12 11:46:02.583 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:46:02.598 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 11:47:45.815 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 11:47:49.589 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[-1]
+2018-10-12 11:47:49.590 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 11:47:49.897 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 11:47:49.899 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 11:47:49.968 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 11:47:49.989 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 11:47:50.000 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 11:47:50.018 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 11:47:50.018 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:47:53.951 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and -1 = '-1' and delete_flag = 0 limit 1 
+2018-10-12 11:47:53.952 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:47:53.961 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 11:49:13.345 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 11:49:17.499 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 11:49:17.500 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 11:49:17.824 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 11:49:17.825 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 11:49:17.899 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 11:49:17.921 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 11:49:17.934 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 11:49:17.952 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 11:49:17.952 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:49:21.217 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 11:49:21.218 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:49:21.219 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 11:49:21.220 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 11:49:21.220 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:49:21.229 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 11:49:21.230 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==>  Preparing: insert into usr_building (building_id ,unlock_level ,player_id ,level ,position ,type ,delete_flag ) values ('2','10','153001000010005','1','2','1002','0' ) 
+2018-10-12 11:49:21.231 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==> Parameters: 
+2018-10-12 11:49:21.247 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - <==    Updates: 1
+2018-10-12 11:54:49.539 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 11:54:53.276 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 11:54:53.277 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 11:54:53.593 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 11:54:53.595 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 11:54:53.671 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 11:54:53.696 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 11:54:53.713 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 11:54:53.728 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 11:54:53.728 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:54:57.035 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 11:54:57.035 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:54:57.037 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 11:59:01.441 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 11:59:05.044 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 11:59:05.044 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 11:59:05.370 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 11:59:05.374 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 11:59:05.447 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 11:59:05.471 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 11:59:05.485 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 11:59:05.502 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 11:59:05.503 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 11:59:08.891 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = 'null' 
+2018-10-12 11:59:08.892 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 11:59:08.896 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 0
+2018-10-12 11:59:08.949 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = 'null' and delete_flag = 0 limit 1 
+2018-10-12 11:59:08.949 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 11:59:08.950 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:04:52.046 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:04:56.061 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:04:56.061 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:04:56.373 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:04:56.375 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:04:56.441 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:04:56.464 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:04:56.476 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:04:56.492 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:04:56.492 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:04:59.628 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:04:59.629 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 12:04:59.644 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 12:04:59.692 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:04:59.693 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:04:59.694 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:05:50.674 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:05:54.582 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:05:54.583 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:05:54.870 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:05:54.872 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:05:54.936 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:05:54.956 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:05:54.987 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:05:54.999 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:05:54.999 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:05:58.380 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:05:58.381 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 12:05:58.434 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 12:06:33.125 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:06:36.844 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:06:36.845 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:06:37.148 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:06:37.150 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:06:37.220 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:06:37.243 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:06:37.258 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:06:37.282 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:06:37.282 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:06:40.428 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:06:40.428 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:06:40.431 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:06:40.432 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 12:06:40.432 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:06:40.433 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:06:40.434 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:06:40.435 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-12 12:06:40.438 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-12 12:07:01.663 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:07:05.574 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:07:05.575 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:07:05.874 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:07:05.876 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:07:05.950 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:07:05.972 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:07:05.988 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:07:06.007 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:07:06.007 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:07:09.147 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:07:09.148 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:07:09.149 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:07:09.193 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:07:09.193 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 12:07:09.196 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 12:07:09.204 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:07:09.205 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 12:07:09.228 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 12:07:09.233 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:07:09.233 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:07:09.235 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:07:09.333 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:07:09.333 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:07:09.335 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:08:02.827 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:08:06.303 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:08:06.303 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:08:06.604 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:08:06.606 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:08:06.679 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:08:06.700 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:08:06.711 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:08:06.726 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:08:06.726 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:08:09.798 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:08:09.799 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 12:08:09.804 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 12:08:09.816 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:08:09.816 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 12:08:09.820 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 12:08:09.825 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:08:09.826 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:08:09.827 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:08:09.869 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:08:09.869 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:08:09.870 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:09:13.575 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:09:17.194 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:09:17.195 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:09:17.504 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:09:17.506 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:09:17.587 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:09:17.608 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:09:17.622 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:09:17.635 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:09:17.636 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:09:20.803 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:09:20.804 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 12:09:20.805 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 0
+2018-10-12 12:09:20.813 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:09:20.813 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 12:09:20.816 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 0
+2018-10-12 12:09:20.822 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:09:20.822 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:09:20.823 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:09:20.841 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:09:20.842 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:09:20.845 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:09:20.852 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:09:20.852 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:09:20.854 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:09:20.854 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 12:09:20.855 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:09:20.857 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:09:20.857 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==>  Preparing: insert into usr_building (building_id ,unlock_level ,player_id ,level ,position ,type ,delete_flag ) values ('2','10','153001000010005','1','2','1002','0' ) 
+2018-10-12 12:09:20.858 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==> Parameters: 
+2018-10-12 12:09:20.865 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - <==    Updates: 1
+2018-10-12 12:16:49.917 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:16:53.516 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:16:53.517 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:16:53.832 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:16:53.836 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:16:53.913 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:16:53.952 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:16:53.980 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:16:53.994 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:16:53.995 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:16:57.236 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:16:57.237 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:16:57.238 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:16:57.238 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 12:16:57.239 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:16:57.239 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:16:57.240 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==>  Preparing: insert into usr_building (building_id ,unlock_level ,player_id ,level ,position ,type ,delete_flag ) values ('2','10','153001000010005','1','2','1002','0' ) 
+2018-10-12 12:16:57.241 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==> Parameters: 
+2018-10-12 12:16:57.253 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - <==    Updates: 1
+2018-10-12 12:16:57.286 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:16:57.287 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 12:16:57.290 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 12:16:57.354 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:16:57.355 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:16:57.356 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:16:57.409 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:16:57.409 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 12:16:57.412 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 12:17:14.783 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 12:17:18.191 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 12:17:18.191 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 12:17:18.490 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 12:17:18.491 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 12:17:18.568 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 12:17:18.589 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 12:17:18.601 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 12:17:18.617 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 12:17:18.617 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 12:17:21.708 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:17:21.709 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:17:21.710 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 12:17:21.710 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 12:17:21.710 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:17:21.712 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:17:21.713 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:17:21.713 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-12 12:17:21.717 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-12 12:17:21.741 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:17:21.741 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 12:17:21.744 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 12:17:21.795 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 12:17:21.796 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 12:17:21.797 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 12:17:21.831 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 12:17:21.831 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 12:17:21.833 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 14:11:14.078 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:11:17.870 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:11:17.870 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:11:18.210 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:11:18.212 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:11:18.289 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:11:18.309 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:11:18.322 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:11:18.344 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:11:18.344 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 14:11:21.610 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:11:21.610 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:11:21.611 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:11:21.617 [main] DEBUG com.bilibili.data.manager.UserManager - 删除【Building】对象失败，主键为【2】的对象不存在
+2018-10-12 14:11:21.625 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:11:21.625 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:11:21.626 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:11:21.626 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 14:11:21.627 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:11:21.628 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:11:21.629 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:11:21.629 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-12 14:11:21.631 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-12 14:11:21.649 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:11:21.650 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 14:11:21.728 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 14:12:39.357 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:12:43.074 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:12:43.074 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:12:43.353 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:12:43.355 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:12:43.420 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:12:43.441 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:12:43.456 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:12:43.469 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:12:43.469 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 14:12:46.760 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:12:46.761 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:12:46.762 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:12:46.762 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 14:12:46.763 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:12:46.764 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:12:46.765 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==>  Preparing: insert into usr_building (building_id ,unlock_level ,player_id ,level ,position ,type ,delete_flag ) values ('2','10','153001000010005','1','2','1002','0' ) 
+2018-10-12 14:12:46.766 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - ==> Parameters: 
+2018-10-12 14:12:46.769 [main] DEBUG com.bilibili.data.dao.CommonDAO.insert - <==    Updates: 1
+2018-10-12 14:12:46.793 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:12:46.793 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 14:12:46.848 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 14:12:46.903 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:12:46.903 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:12:46.905 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:12:46.941 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:12:46.941 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 14:12:46.944 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 14:15:32.003 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:15:35.638 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:15:35.639 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:15:35.936 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:15:35.940 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:15:36.011 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:15:36.035 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:15:36.047 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:15:36.060 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:15:36.060 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 14:15:39.221 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:15:39.222 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:15:39.223 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:15:39.223 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 14:15:39.223 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:15:39.224 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:15:39.225 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:15:39.225 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-12 14:15:39.230 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-12 14:15:39.250 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:15:39.251 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 14:15:39.252 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 14:15:39.320 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:15:39.320 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:15:39.322 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:15:39.370 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:15:39.370 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 14:15:39.374 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 14:16:37.304 [main] DEBUG com.bilibili.data.manager.UserManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:16:40.953 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:16:40.953 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:16:41.268 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:16:41.269 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:16:41.340 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:16:41.361 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:16:41.373 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:16:41.388 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:16:41.389 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 14:16:44.498 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:16:44.499 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:16:44.499 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:16:44.500 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 14:16:44.500 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:16:44.501 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:16:44.502 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:16:44.502 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-12 14:16:44.524 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-12 14:16:44.548 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:16:44.548 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 14:16:44.565 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 14:16:44.615 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:16:44.616 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:16:44.617 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:16:44.655 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:16:44.655 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 14:16:44.672 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 14:47:38.017 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:47:41.957 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:47:41.957 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:47:42.309 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:47:42.310 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:47:42.377 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:47:42.398 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:47:42.897 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:47:42.919 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:47:42.920 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 14:48:16.418 [main] DEBUG com.bilibili.BaseTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:48:20.064 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:48:20.065 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:48:20.402 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:48:20.404 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:48:20.474 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:48:20.494 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:48:20.505 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:48:20.520 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:48:20.520 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-12 14:48:23.663 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:48:23.663 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:48:23.671 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-12 14:48:23.672 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-12 14:48:23.672 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:48:23.673 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:48:23.674 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:48:23.674 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-12 14:48:23.677 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-12 14:48:23.699 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:48:23.700 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-12 14:48:23.702 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-12 14:48:23.758 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-12 14:48:23.759 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-12 14:48:23.764 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-12 14:48:23.819 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-12 14:48:23.820 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-12 14:48:23.825 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-12 14:48:23.884 [main] DEBUG com.bilibili.net.controller.LoginControllerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-12 14:48:24.890 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-12 14:48:24.890 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-12 14:48:25.000 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-12 14:48:25.001 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-12 14:48:25.001 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-12 14:48:25.002 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-12 14:48:25.003 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-12 14:48:25.004 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-12 14:48:25.005 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-15 17:12:44.955 [main] DEBUG com.bilibili.BaseTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-15 17:12:49.503 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-15 17:12:49.504 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-15 17:12:49.910 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-15 17:12:49.912 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-15 17:12:49.994 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-15 17:12:50.018 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-15 17:12:50.065 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-15 17:12:50.091 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-15 17:12:50.091 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-15 17:12:53.920 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-15 17:12:53.921 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-15 17:12:53.948 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-10-15 17:12:53.948 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-10-15 17:12:53.949 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-15 17:12:53.950 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-15 17:12:53.951 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-10-15 17:12:53.951 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-10-15 17:12:53.979 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-10-15 17:12:54.022 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-10-15 17:12:54.024 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-10-15 17:12:54.047 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-10-15 17:12:54.116 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-10-15 17:12:54.117 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-10-15 17:12:54.118 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-10-15 17:12:54.166 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-10-15 17:12:54.167 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-10-15 17:12:54.169 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-10-15 17:12:54.228 [main] DEBUG com.bilibili.net.controller.LoginControllerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-15 17:12:55.316 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-15 17:12:55.316 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-15 17:12:55.431 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-15 17:12:55.432 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-15 17:12:55.433 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-15 17:12:55.433 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-15 17:12:55.436 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-15 17:12:55.437 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-15 17:12:55.437 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-18 15:05:36.295 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-18 15:05:41.743 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-18 15:05:41.743 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-18 15:05:42.082 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-18 15:05:42.085 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-18 15:05:42.170 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-18 15:05:42.194 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-18 15:05:42.371 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-18 15:05:42.407 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-18 15:05:42.407 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-10-23 10:28:30.103 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-10-23 10:28:36.658 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-10-23 10:28:36.659 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-10-23 10:28:37.007 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-10-23 10:28:37.010 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-10-23 10:28:37.125 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-10-23 10:28:37.152 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-10-23 10:28:37.219 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-10-23 10:28:37.239 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-10-23 10:28:37.248 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:05:09.543 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:05:13.808 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:05:13.809 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:05:14.180 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:05:14.182 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:05:14.295 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:05:14.318 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:05:14.371 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:05:14.397 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:05:14.398 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:05:17.110 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:05:18.286 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:05:18.286 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:05:18.410 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:05:18.411 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:05:18.413 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:05:18.414 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:05:18.426 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:05:18.427 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:05:18.427 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:05:20.874 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:05:22.179 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:05:22.180 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:05:22.334 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:05:22.335 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:05:22.343 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:05:22.344 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:05:22.348 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:05:22.352 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:05:22.352 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:05:24.744 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:05:25.717 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:05:25.718 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:05:25.828 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:05:25.831 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:05:25.832 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:05:25.832 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:05:25.834 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:05:25.835 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:05:25.835 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:05:28.198 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:05:29.186 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:05:29.186 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:05:29.301 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:05:29.302 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:05:29.302 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:05:29.303 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:05:29.304 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:05:29.305 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:05:29.305 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:05:31.643 [main] DEBUG com.bilibili.data.manager.MasterManagerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:05:32.469 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:05:32.469 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:05:32.571 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:05:32.572 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:05:32.572 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:05:32.572 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:05:32.574 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:05:32.575 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:05:32.575 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:08:02.948 [main] DEBUG com.bilibili.BaseTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:08:07.271 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:08:07.271 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:08:07.592 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:08:07.594 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:08:07.669 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:08:07.690 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:08:07.738 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:08:07.758 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:08:07.758 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:08:11.405 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-11-02 11:08:11.406 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-02 11:08:11.547 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-11-02 11:08:11.547 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-11-02 11:08:11.548 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-02 11:08:11.549 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-11-02 11:08:11.550 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-11-02 11:08:11.550 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-11-02 11:08:11.622 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-11-02 11:08:11.647 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-11-02 11:08:11.647 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-11-02 11:08:11.651 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-11-02 11:08:11.728 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-11-02 11:08:11.728 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-02 11:08:11.730 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-11-02 11:08:11.780 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-11-02 11:08:11.780 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-11-02 11:08:11.786 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-11-02 11:08:12.020 [main] DEBUG com.bilibili.net.controller.LoginControllerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:08:13.048 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-02 11:08:13.049 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-02 11:08:13.191 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-02 11:08:13.192 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-02 11:08:13.192 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:08:13.193 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:08:13.194 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:08:13.195 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-02 11:08:13.195 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-02 11:13:40.867 [main] DEBUG com.bilibili.BaseTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:13:44.498 [main] DEBUG com.bilibili.bean.user.ObjectBean - ӳ�䵽[Building]������Ӧ�����ݿ��[usr_building]����ѯ����Ϊ[building_id]
+2018-11-02 11:13:44.499 [main] DEBUG com.bilibili.bean.user.ObjectBean - ӳ�䵽[Player]������Ӧ�����ݿ��[usr_player]����ѯ����Ϊ[-1]
+2018-11-02 11:13:44.795 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ������Ϣ��ʼ------------------
+2018-11-02 11:13:44.798 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ[mst_girl]��------------------
+2018-11-02 11:13:44.907 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:13:44.930 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:13:44.943 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:13:44.959 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------����ȡ"1"�������ļ�------------------
+2018-11-02 11:13:44.960 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ������Ϣ����------------------
+2018-11-02 11:13:48.821 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-11-02 11:13:48.821 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-02 11:13:48.843 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-11-02 11:13:48.844 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-11-02 11:13:48.844 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-02 11:13:48.847 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-11-02 11:13:48.848 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-11-02 11:13:48.849 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-11-02 11:13:48.866 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-11-02 11:13:48.896 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-11-02 11:13:48.896 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-11-02 11:13:48.901 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-11-02 11:13:48.984 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-11-02 11:13:48.985 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-02 11:13:48.986 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-11-02 11:13:49.023 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-11-02 11:13:49.023 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-11-02 11:13:49.032 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-11-02 11:13:49.195 [main] DEBUG com.bilibili.net.controller.LoginControllerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-02 11:13:50.274 [main] DEBUG com.bilibili.bean.user.ObjectBean - ӳ�䵽[Building]������Ӧ�����ݿ��[usr_building]����ѯ����Ϊ[building_id]
+2018-11-02 11:13:50.275 [main] DEBUG com.bilibili.bean.user.ObjectBean - ӳ�䵽[Player]������Ӧ�����ݿ��[usr_player]����ѯ����Ϊ[-1]
+2018-11-02 11:13:50.430 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ������Ϣ��ʼ------------------
+2018-11-02 11:13:50.432 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ[mst_girl]��------------------
+2018-11-02 11:13:50.435 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-02 11:13:50.436 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-02 11:13:50.437 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-02 11:13:50.438 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------����ȡ"1"�������ļ�------------------
+2018-11-02 11:13:50.438 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------��ȡ������Ϣ����------------------
+2018-11-13 17:07:15.083 [main] DEBUG com.bilibili.BaseTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-14 18:32:10.763 [main] DEBUG com.bilibili.BaseTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-14 18:32:16.149 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-14 18:32:16.150 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-14 18:32:16.570 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-14 18:32:16.572 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-14 18:32:16.658 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-14 18:32:16.680 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-14 18:32:16.775 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-14 18:32:16.800 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-14 18:32:16.815 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
+2018-11-14 18:32:21.557 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-11-14 18:32:21.558 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-14 18:32:21.956 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 0
+2018-11-14 18:32:21.956 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' limit 1 
+2018-11-14 18:32:21.956 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-14 18:32:21.958 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-11-14 18:32:21.959 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==>  Preparing: update usr_building set building_id = '2',unlock_level = '10',player_id = '153001000010005',level = '1',position = '2',type = '1002',delete_flag = '0', delete_flag = 0 where player_id = 153001000010005 and building_id = '2' 
+2018-11-14 18:32:21.959 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - ==> Parameters: 
+2018-11-14 18:32:22.070 [main] DEBUG com.bilibili.data.dao.CommonDAO.insertLogical - <==    Updates: 1
+2018-11-14 18:32:22.098 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==>  Preparing: update usr_building set building_id = '2',player_id = '153001000010005',type = '1010',delete_flag = '0' where player_id = 153001000010005 and building_id = '2' 
+2018-11-14 18:32:22.098 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - ==> Parameters: 
+2018-11-14 18:32:22.113 [main] DEBUG com.bilibili.data.dao.CommonDAO.update - <==    Updates: 1
+2018-11-14 18:32:22.222 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==>  Preparing: select * from usr_building where player_id = 153001000010005 and building_id = '2' and delete_flag = 0 limit 1 
+2018-11-14 18:32:22.223 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - ==> Parameters: 
+2018-11-14 18:32:22.225 [main] DEBUG com.bilibili.data.dao.CommonDAO.select - <==      Total: 1
+2018-11-14 18:32:22.294 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==>  Preparing: update usr_building set delete_flag = 1 where player_id = 153001000010005 and building_id = '2' 
+2018-11-14 18:32:22.294 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - ==> Parameters: 
+2018-11-14 18:32:22.298 [main] DEBUG com.bilibili.data.dao.CommonDAO.deleteLogical - <==    Updates: 1
+2018-11-14 18:32:22.385 [main] DEBUG com.bilibili.net.controller.LoginControllerTest - Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.9.RELEASE
+2018-11-14 18:32:23.992 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Building]类所对应的数据库表[usr_building]，查询条件为[building_id]
+2018-11-14 18:32:23.993 [main] DEBUG com.bilibili.bean.user.ObjectBean - 映射到[Player]类所对应的数据库表[usr_player]，查询条件为[-1]
+2018-11-14 18:32:24.127 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息开始------------------
+2018-11-14 18:32:24.129 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取[mst_girl]表------------------
+2018-11-14 18:32:24.130 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==>  Preparing: select * from mst_girl where del_flg = '0' 
+2018-11-14 18:32:24.133 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - ==> Parameters: 
+2018-11-14 18:32:24.137 [main] DEBUG com.bilibili.data.dao.MasterDAO.selectMasterByName - <==      Total: 2
+2018-11-14 18:32:24.138 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------共读取"1"个配置文件------------------
+2018-11-14 18:32:24.138 [main] DEBUG com.bilibili.data.manager.MasterManager - -----------------读取配置信息结束------------------
